@@ -19,7 +19,7 @@ async def create_lobby(connection):
                 "spectatorPolicy": "AllAllowed",
                 "teamSize": 5,
             },
-            "lobbyName": "Amy's 5v5 Practice Tool",
+            "lobbyName": "5v5 Practice Tool",
             "lobbyPassword": ""
         },
         "isCustom": True,
