@@ -1,0 +1,7 @@
+dist/
+venv/
+build/
+icon.ico
+*.spec
+compile.bat
+__pycache__/
