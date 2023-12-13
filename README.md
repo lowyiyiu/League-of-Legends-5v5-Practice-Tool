@@ -14,7 +14,7 @@ Click [here](https://github.com/lowyiyiu/League-of-Legends-5v5-Practice-Tool/rel
 4. You won't be able to invite actual players into your custom lobby.
 
 # Other Tools
-[EasyRunes, Automated Runes Selection](https://github.com/lowyiyiu/EasyRunes)
+[EasyRunes - Automated Runes Selection](https://github.com/lowyiyiu/EasyRunes)
 
 # [License](https://github.com/lowyiyiu/League-of-Legends-5v5-Practice-Tool/tree/main/LICENSE)
 
