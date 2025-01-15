@@ -1,3 +1,6 @@
+We can now do this in game so it's time to archive the project.
+
+
 # League of Legends - 5v5 Practice Tool
 
 Create a custom practice tool lobby which allows 5v5 (bots only). 
